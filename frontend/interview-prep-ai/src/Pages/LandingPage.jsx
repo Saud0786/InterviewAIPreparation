@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { LuSparkles } from "react-icons/lu";
 import {APP_FEATURES as APP, APP_FEATURES} from "../utils/data"; 
 
-import Signup from "./Auth/Signup";
+import Signup from "./Auth/SignUp";
 import Modal from "../components/Modal";
 import Login from "./Auth/Login";
 import { useContext } from "react";
